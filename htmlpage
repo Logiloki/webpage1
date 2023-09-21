@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BICYCLE</title>
+</head>
+<body background="C:\Users\LOGESH.TM\Downloads\Desktop\Bicycle.jpg">
+    <br>
+<h3 align="center">
+    <a href="#">HOME</a>
+    <a href="#">ABOUT US</a>
+    <a href="#">BICYCLE COLLECTIONS</a>
+    <a href="#">ACCESSORIES</a>
+    <a href="#">CONTACT US</a>
+  </h3>
+  <br><br><br><br><br><br><br><br><br><br>
+ <h1 align="center">
+    <p title="Bicycle"><b>READY TO RIDE</b></p>
+    <p><b><b></p>
+    </h1>
+  <br />
+  <h2 align="center">
+  <a href="#">SIGN UP</a><br>
+  <a href="#">LOGIN</a>
+  </h2>  <br><br><br><br><br><br><br><br><br><br>
+  <br><br><h4 align="center">
+  <iframe src="https://www.choosemybicycle.com/en" frameborder="0" height="500px" width="750px"></iframe></h4>
+</body>
+</html>
